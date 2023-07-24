@@ -43,6 +43,11 @@ The project uses a configuration file called `config.js` to define certain setti
 - `OUTPUT_PATH`: Path of the folder where the resulting text files will be stored.
 - `LANG_PATH`: Path to the location of the trained language data. By default, it is set to `data-lang/eng.traineddata.gz`.
 
+## License
+
+This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
+
+
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have improvements in mind, feel free to open a new issue or submit a pull request.
