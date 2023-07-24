@@ -1,6 +1,6 @@
 # Image Scanner
 
-This is a NodeJS project that scans images located in the `images/` folder and extracts text from them. 
+This is a small NodeJS tool that scans images located in the `images/` folder and extracts text from them. 
 The extracted text is then saved in the `output/` folder in a .txt format. 
 This project utilizes the [tesseract.js](https://github.com/naptha/tesseract.js) module for image processing.
 
@@ -46,8 +46,3 @@ The project uses a configuration file called `config.js` to define certain setti
 ## License
 
 This project is licensed under the MIT License. You can find more details in the [LICENSE](LICENSE) file.
-
-
-## Contributing
-
-Contributions are welcome! If you encounter any issues or have improvements in mind, feel free to open a new issue or submit a pull request.
